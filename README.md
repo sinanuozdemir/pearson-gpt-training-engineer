@@ -64,6 +64,7 @@ This course is part of a three-course series designed for machine learning engin
 	- `semantic_search.ipynb`: [Implementing semantic search algorithms](notebooks/semantic_search.ipynb)
 	- `retrieval_augmented_generation.ipynb`: [Building a retrieval augmented generation (RAG) system](notebooks/retrieval_augmented_generation.ipynb)
 - **Session 3**: Use Case Discussion (30 minutes)
+	- Checkout out the [Streamlit](streamlit/) directory for more!
 
 For a detailed schedule, refer to the [Course Description](#description).
 
