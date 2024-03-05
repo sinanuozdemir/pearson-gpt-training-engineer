@@ -1,0 +1,8 @@
+pandas==2.0.3
+jupyter==1.0.0
+openai==1.10.0
+streamlit==1.31.0
+datasets==2.13.1
+torch==2.0.1
+transformers==4.36.2
+cohere==4.31
