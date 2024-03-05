@@ -56,6 +56,7 @@ This course is part of a three-course series designed for machine learning engin
 	- `simple_finetuning_bert_classification.ipynb`: [Fine-tuning BERT for classification tasks](notebooks/simple_finetuning_bert_classification.ipynb)
 	- `anime_category_classification_model_freezing.ipynb`: [Working with anime category classification](notebooks/anime_category_classification_model_freezing.ipynb)
 	- `distillation.ipynb`: [Notebook covering distillation techniques](https://colab.research.google.com/drive/1GO8w1gC2TRII9-aaRNaFN6mkCglm2pJa?usp=sharing)
+	- `Llama 2 Instruction Fine-tuning` [Colab Notebook](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing)
 	- `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing)
 
 - **Session 2**: Closed-Source LLMs (70 minutes)
