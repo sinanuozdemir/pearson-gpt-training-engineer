@@ -56,12 +56,13 @@ This course is part of a three-course series designed for machine learning engin
 	- `simple_finetuning_bert_classification.ipynb`: [Fine-tuning BERT for classification tasks](notebooks/simple_finetuning_bert_classification.ipynb)
 	- `anime_category_classification_model_freezing.ipynb`: [Working with anime category classification](notebooks/anime_category_classification_model_freezing.ipynb)
 	- `distillation.ipynb`: [Notebook covering distillation techniques](https://colab.research.google.com/drive/1GO8w1gC2TRII9-aaRNaFN6mkCglm2pJa?usp=sharing)
-	- `Llama 2 Instruction Fine-tuning` [Colab Notebook](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing)
+	- `Llama 3 Instruction Fine-tuning` [Colab Notebook](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing)
+	- `llama_quantization.ipynb` [Testing Llama 3 Quantization](notebooks/llama_quantization.ipynb)
 	- `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing)
 
 - **Session 2**: Closed-Source LLMs (70 minutes)
 	- `openai_fine_tuned_classification.ipynb`: [Fine-tuning OpenAI models for classification](notebooks/openai_fine_tuned_classification.ipynb)
-	- `semantic_search.ipynb`: [Implementing semantic search algorithms](https://colab.research.google.com/drive/1h8dmDclOnYsXKlMDYp1uRuW55xbzypUY?usp=sharing)
+	- `semantic_search.ipynb`: [Implementing semantic search algorithms](notebooks/semantic_search.ipynb)
 	- `retrieval_augmented_generation.ipynb`: [Building a retrieval augmented generation (RAG) system](notebooks/retrieval_augmented_generation.ipynb)
 - **Session 3**: Use Case Discussion (30 minutes)
 	- Checkout out the [Streamlit](streamlit/) directory for more!
